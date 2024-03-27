@@ -40,7 +40,7 @@
   * プログラミング教育
 ### Activities
 * 2023/09: キャチロボバトルコンテスト2023 決勝リーグ初戦敗退
-* ２０２３/04: [新歓委員会のイベントWebサイト](https://irodori-newcomer2023.pages.dev/)
+* 2023/04: [新歓委員会のイベントWebサイト](https://irodori-newcomer2023.pages.dev/) ([開発についての記事](https://zenn.dev/for/articles/829b4379aa665b))
 * 2023/02-: アルバイト (株式会社ティアフォー)
 * 2022/07-: ForteFibre部内ライブラリ「fibril」
 * 2022/09: LRFとパーティクルフィルタによる自己位置推定 (ForteFibre部内大会)
