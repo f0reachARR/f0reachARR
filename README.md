@@ -11,17 +11,22 @@
 * C++
   * ROS2
 * C#
-* (Rust)
+* Rust
 ### Interests
 * Webアプリケーション開発
+　　　　* React
   * Software Architecture
   * UI/UX
 * バックエンド開発
+　　　　* Node.js
+* 組み込みシステム
+  * 制御工学・ロボティクス
+  * IoT
+  * マイコン用ファームウェア
 * インフラ
   * Kubernetes
   * Docker
   * オンプレミス(自宅鯖)
-  * パフォーマンスチューニング
 * セキュリティ
   * Webアプリケーションセキュリティ
   * OSINT
@@ -31,12 +36,12 @@
   * テレビ放送受信システム
   * 動画コンテナ
   * 生放送配信
-* 組み込みシステム
-  * 制御工学・ロボティクス
-  * IoT
-
+* 教育
+  * プログラミング教育
 ### Activities
-* 2022/09-: ROS2 <-> gRPC Bridge
+* 2023/09: キャチロボバトルコンテスト2023 決勝リーグ初戦敗退
+* 2023/02-: アルバイト (株式会社ティアフォー)
+* 2022/07-: ForteFibre部内ライブラリ「fibril」
 * 2022/09: LRFとパーティクルフィルタによる自己位置推定 (ForteFibre部内大会)
 * 2022/07: ISUCON12 「Aquaharaimori」 予選落ち（追試失敗）
 * 2022/07: [Excel To LaTeX](https://marketplace.visualstudio.com/items?itemName=f0reacharr.excel-to-latex-copypaste) VSCode Extension
