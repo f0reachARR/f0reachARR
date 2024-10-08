@@ -14,11 +14,11 @@
 * Rust
 ### Interests
 * Webアプリケーション開発
-　　　　* React
+  * React
   * Software Architecture
   * UI/UX
 * バックエンド開発
-　　　　* Node.js
+  * Node.js
 * 組み込みシステム
   * 制御工学・ロボティクス
   * IoT
@@ -39,6 +39,8 @@
 * 教育
   * プログラミング教育
 ### Activities
+* 2024/09: [Cybozu 生産性向上チーム インターンシップ](https://zenn.dev/for/articles/338aa8460e9e8e)
+* 2024/08: [MoneyForward 会計Plusチーム インターンシップ](https://zenn.dev/for/articles/8768db1b4b5d73)
 * 2023/09: キャチロボバトルコンテスト2023 決勝リーグ初戦敗退
 * 2023/04: [新歓委員会のイベントWebサイト](https://irodori-newcomer2023.pages.dev/) ([開発についての記事](https://zenn.dev/for/articles/829b4379aa665b))
 * 2023/02-: アルバイト (株式会社ティアフォー)
