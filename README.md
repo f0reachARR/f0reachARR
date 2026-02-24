@@ -39,7 +39,8 @@
 * 教育
   * プログラミング教育
 ### Activities
-* 2026/03-: Cybozu（予定）
+* 2026/04-: Cybozu（予定）
+* 2025/09/08: [ROSConJP2025](https://roscon.ros.org/jp/2025/) 登壇
 * 2024/09: [Cybozu 生産性向上チーム インターンシップ](https://zenn.dev/for/articles/338aa8460e9e8e)
 * 2024/08: [MoneyForward 会計Plusチーム インターンシップ](https://zenn.dev/for/articles/8768db1b4b5d73)
 * 2023/09: キャチロボバトルコンテスト2023 決勝リーグ初戦敗退
