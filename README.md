@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://emojis.slackmojis.com/emojis/images/1518985741/3559/allo-drool.gif">
+  <img src="https://media1.tenor.com/m/RKhLB0zTUY4AAAAd/hoshimachi-suisei-suisei.gif">
   <p>↑開発方針↑</p>
 </div>
 
