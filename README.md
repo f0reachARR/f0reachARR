@@ -39,7 +39,9 @@
 * 教育
   * プログラミング教育
 ### Activities
-* 2026/04-: Cybozu（予定）
+* 2026/10-2027/02: JANOG 59 NOC APチーム
+* 2026/08: SWEST 28 ポスターセッション
+* 2026/04-: サイボウズ株式会社 開発本部 生産性向上チーム（生産性向上副部）
 * 2025/09/08: [ROSConJP2025](https://roscon.ros.org/jp/2025/) 登壇
 * 2024/09: [Cybozu 生産性向上チーム インターンシップ](https://zenn.dev/for/articles/338aa8460e9e8e)
 * 2024/08: [MoneyForward 会計Plusチーム インターンシップ](https://zenn.dev/for/articles/8768db1b4b5d73)
