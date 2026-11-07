@@ -7,11 +7,11 @@
 * TypeScript
   * Node.js
   * React
-* Perl
+* Rust
 * C++
   * ROS2
 * C#
-* Rust
+* Perl
 ### Interests
 * Webアプリケーション開発
   * React
